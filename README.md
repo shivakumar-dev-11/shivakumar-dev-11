@@ -10,7 +10,4 @@ web & linux based projects <br><br>linux commands & backend basics <br>linux , j
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=shivakumar-dev-11 &icon=1&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
