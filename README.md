@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">Student | Learning Web Development & Programming</h3>
 
@@ -5,25 +6,17 @@
 
 ## 👨‍💻 About Me
 - 🎓 Student passionate about technology and programming  
-- 💻 Currently learning Web Development, JavaScript, and SQL  
+- 💻 Currently learning Web Development and backend technologies  
 - 🚀 Building projects to improve coding skills  
 - 📚 Always exploring new technologies  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Contribution Count
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar-dev-11&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar-dev-11&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar-dev-11&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🔥 Contributions Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakumar-dev-11&theme=tokyo-night"/>
 </p>
 
 ---
@@ -36,10 +29,14 @@
 
 ---
 
-## 🛠️ Technologies I'm Learning
+## 🛠️ Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
+  <img src="https://skillicons.dev/icons?i=postgres,html,css,tailwind,js,linux,git,github,python"/>
+</p>
+
+<p align="center">
+PostgreSQL • SQL • HTML • CSS • TailwindCSS • JavaScript • Linux • Git • GitHub • Python
 </p>
 
 ---
