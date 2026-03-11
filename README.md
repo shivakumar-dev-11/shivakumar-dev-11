@@ -1,13 +1,54 @@
-# 💫 About Me:
-web & linux based projects <br><br>linux commands & backend basics <br>linux , javascript ,git ,github , python ,html ,css <br>linux basics & web development <br>i enjoy exploring linux tools 
+<h1 align="center">Hi 👋, I'm Shivakumar</h1>
+<h3 align="center">Student | Learning Web Development & Programming</h3>
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/DhxSkHw2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bashamoni-shiva-kumar-6a08bb390/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bashamonishivakumar081@gmail.com) 
+## 👨‍💻 About Me
+- 🎓 Student passionate about technology and programming  
+- 💻 Currently learning Web Development, JavaScript, and SQL  
+- 🚀 Building projects to improve coding skills  
+- 📚 Always exploring new technologies  
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar-dev-11&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar-dev-11&theme=tokyonight" height="170"/>
+</p>
 
+---
 
+## 🔥 Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivakumar-dev-11&theme=tokyo-night"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivakumar-dev-11&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode"/>
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: bashamonishivakumar081@gmail.com  
+- 💻 GitHub: https://github.com/shivakumar-dev-11  
+
+---
+
+⭐ From [shivakumar-dev-11](https://github.com/shivakumar-dev-11)
