@@ -53,7 +53,7 @@ HTML • CSS • TailwindCSS • JavaScript • React • PHP • Python • Pos
 ## 🔐 Cybersecurity Skills & Tools
 
 <p align="center">
-  Kali Linux • Wireshark • Nmap • Burp Suite • SQLMap • OWASP Top 10 • Web Security • Network Security
+  Kali Linux  • Nmap • Burp Suite  zenmap. basic sqlinjection
 </p>
 
 ---
