@@ -15,18 +15,7 @@
 * 📚 Continuously learning new technologies and security concepts
 * 🌱 Currently focused on React, PHP, PostgreSQL, and Secure Web Applications
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivakumar-dev-11&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivakumar-dev-11&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivakumar-dev-11&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
